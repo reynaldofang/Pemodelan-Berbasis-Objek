@@ -1,0 +1,7 @@
+1. User dapat login
+2. User dapat logout
+3. User dapat memilih menu
+4. User dapat memesan minuman
+5. User dapat memilih metode pembayaran
+6. User dapat mengedit Quantity yang diinginkan
+7. User dapat menganti alamat yang ingin dikirimkan
