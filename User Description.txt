@@ -1,7 +1,8 @@
 1. User dapat login
 2. User dapat logout
-3. User dapat memilih menu
-4. User dapat memesan minuman
+3. User dapat melihat menu
+4. User dapat menambahkan produk ke keranjang
 5. User dapat memilih metode pembayaran
-6. User dapat mengedit Quantity yang diinginkan
-7. User dapat menganti alamat yang ingin dikirimkan
+6. User dapat menambahkan/mengurangi Quantity yang diinginkan di keranjang
+7. User dapat menghapus produk dari keranjang
+8. User dapat menganti alamat tujuan pengiriman.
